@@ -251,10 +251,6 @@ With this knowledge, finish our implementation in MovePosition! These tidbits mi
 Finally, after saving head back into unity. You’ll see that under our PlayerMovement tab in the inspector there is now an input for Move Speed and Rigidbody 2D
 
 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image9.png "image_tooltip")
 
 
